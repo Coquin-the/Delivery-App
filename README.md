@@ -1,6 +1,6 @@
 # Aplicativo de Entrega
 
-![Banner do Aplicativo](link_para_imagem_banner.png)
+![Banner do Aplicativo](link_para_imagem_banner.png](https://img.freepik.com/vetores-premium/servico-de-entrega-online-por-scooter-site-de-compras-em-um-celular-conceito-de-pedido-de-comida-banner-da-web-modelo-de-aplicativo-ilustracao_212216-378.jpg?w=2000))
 
 Este é um aplicativo de entrega desenvolvido usando Android Studio e Java. O aplicativo permite que os usuários façam pedidos de entrega de alimentos de restaurantes locais e rastreiem o status do pedido em tempo real.
 
