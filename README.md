@@ -49,4 +49,4 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Feito com ❤️ pelo [seu nome] - [seu email]
+Feito com ❤️ pelo Vitor Hugo Marcelino Santos - vitorhugo1524@gmail.com
